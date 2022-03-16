@@ -1,3 +1,22 @@
+Netflix-clone code along project
+with Js, css, html and firebase.
+Link to finished project - https://netflixclone-193a5.web.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
